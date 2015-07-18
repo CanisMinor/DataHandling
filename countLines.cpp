@@ -1,5 +1,5 @@
 //function for counting lines in a text file
-//Cecilia Aas June 2014
+//CanisMinor June 2014
 
 #include <iostream>
 #include <fstream>
